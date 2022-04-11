@@ -3,9 +3,9 @@ let modelo;
 let bg;
 let radius=0;
 function preload(){
-    material =  loadImage("../Nagatoro.png");
-    modelo = loadModel("../Nagatoro.obj");  
-    bg   =  loadImage("../imagenes/giphy-1.gif");
+    material =  loadImage("Nagatoro.png");
+    modelo = loadModel("Nagatoro.obj");  
+    bg   =  loadImage("imagenes/giphy-1.gif");
 }
 function setup() {
     var canvas = createCanvas(330,330,WEBGL);
