@@ -51,14 +51,14 @@ h3{
   #scene .img_1{
     width: 100%;
     height: 100%;
-    background-image: url("/imagenes/parallax/1.png");
+    background-image: url("imagenes/parallax/1.png");
     background-repeat: no-repeat;
     background-size: cover;
   }
   #scene .img_2{
     width: 100%;
     height: 100%;
-    background-image: url("/imagenes/parallax/2.png");
+    background-image: url("imagenes/parallax/2.png");
     background-repeat: no-repeat;
     background-size: cover;
   }
@@ -66,14 +66,14 @@ h3{
       margin-top: 30px;
     width: 100%;
     height: 100%;
-    background-image: url("/imagenes/parallax/3.png");
+    background-image: url("imagenes/parallax/3.png");
     background-repeat: no-repeat;
     background-size: cover;
   }
   #scene .img_4{
     width: 100%;
     height: 100%;
-    background-image: url("/imagenes/parallax/4.png");
+    background-image: url("imagenes/parallax/4.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -251,7 +251,7 @@ header .contenedor-links{
 .zona-2{
   scroll-snap-align: center;
   background-position: center;
-  background-image: url(/imagenes/parallax/6.png),url(/imagenes/zona-2.gif);
+  background-image: url(imagenes/parallax/6.png),url(imagenes/zona-2.gif);
   background-size: cover;
   background-repeat: no-repeat;
 
@@ -316,7 +316,7 @@ header .contenedor-links{
   scroll-snap-align: center;
   height: 400px;
   width: 100%;
-  background-image: url("/imagenes/zona-3.png");
+  background-image: url("imagenes/zona-3.png");
   background-size:cover;
   background-position:center;
   padding-top: 3rem;
@@ -358,7 +358,7 @@ header .contenedor-links{
   height:auto;
   padding-bottom: 15rem;
 
-  background-image:url("/imagenes/parallax/5.png"),url("/imagenes/parallax/7.png"),url("/imagenes/zona-4.gif");
+  background-image:url("imagenes/parallax/5.png"),url("imagenes/parallax/7.png"),url("imagenes/zona-4.gif");
   background-position: center;
   background-size: cover;
 }
@@ -459,7 +459,7 @@ header .contenedor-links{
   width: 100%;
   height: 100%;
   padding: 5rem 0;
-  background-image:url("/imagenes/parallax/5.png"), url("/imagenes/parallax/6.png"), url("/imagenes/zona-5.webp");
+  background-image:url("imagenes/parallax/5.png"), url("imagenes/parallax/6.png"), url("imagenes/zona-5.webp");
   background-position: center;
   background-size: cover;
 }
